@@ -15,34 +15,9 @@ A modern, interactive, and fully responsive **Terminal User Interface (TUI)** wr
 ---
 
 ## 📸 Interface Preview
+<img width="1474" height="966" alt="image" src="https://github.com/user-attachments/assets/cf3f327e-ca41-49ec-9d59-254bde99640f" />
 
-```text
-┌───────────────────────── NMAP TERMINAL SCANNER ── [v1.0 By ajmine stay ethical] ──────────────────────────┐
-│  SCAN OPTIONS (1-9)                 │  TARGET INFORMATION (click or press Tab)                            │
-│  [1] Quick Scan                     │  ┌───────────────────────────────────────────────────────────────┐  │
-│ >[2] Full Port Scan (1-65535)       │  │ 10.10.10.10                                                   │  │
-│  [3] OS Detection (-O)              │  └───────────────────────────────────────────────────────────────┘  │
-│  [4] Service Version (-sV)          │  Try: [192.168.1.1]  [scanme.nmap.org]  [10.0.0.0/24]               │
-│  [5] Aggressive Scan (-A)           │                                                                     │
-│  [6] Ping Only (-sn)                │  SELECTED SCAN & COMMAND PREVIEW                                    │
-│  [7] Vulnerability Scan             │  Full Port Scan (1-65535)                                           │
-│  [8] UDP Scan (-sU)                 │  $ nmap -p 1-65535 10.10.10.10                                      │
-│  [9] Fast Scan (Top 100)            │  [ ▶ EXECUTE SCAN (Enter) ]                                         │
-├───────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│  OUTPUT: Full Port Scan (1-65535) on 10.10.10.10                  ⠋ SCANNING [00:08] [ ■ CANCEL SCAN ]    │
-│  Starting Nmap 7.95 ( https://nmap.org ) at 2026-09-13 22:45 +06                                          │
-│  Nmap scan report for 10.10.10.10                                                                         │
-│  PORT      STATE SERVICE  VERSION                                                                         │
-│  22/tcp    open  ssh      OpenSSH 8.9p1  [LOW]                                                            │
-│  80/tcp    open  http     Apache 2.4.52  [MEDIUM]                                                         │
-│  445/tcp   open  smb      Samba 4.15.5   [HIGH]                                                           │
-│  3389/tcp  open  ms-wbt   TerminalServer [HIGH]                                                           │
-│                                                                                                           │
-│  Legend: [CRITICAL] [HIGH] [MEDIUM] [LOW] [INFO]                                                          │
-│  Summary: 4 open ports found (2 High, 1 Med, 1 Low)                                                       │
-└───────────────────────────────────────────────────────────────────────────────────────────────────────────┘
- [Tab] Focus Target  [1-9] Select Profile  [Enter] Execute  [c] Cancel  [j/k] Scroll  [q] Quit
-```
+
 
 ---
 
