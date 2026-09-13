@@ -196,4 +196,4 @@ This tool is designed for educational, defensive security auditing, and authoriz
 
 ## 👤 Author
 
-Developed by **[ajmine](https://github.com/ajmine)**.
+Developed by **[ajmine](https://github.com/ajmine03)**.
